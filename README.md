@@ -4,6 +4,8 @@ Anggota:
 2. I Made Arjuna Dharmaduta (260530911051)
 3. Imanuel Danu Wisanggeni Siswadi (260530911104)
 
+Link Prototype Figma: https://www.figma.com/proto/cy6qryxefGlFslyURp2CFA/SALIM?node-id=203-3&t=tJOOP7TGrIUzkRHw-1
+
 Dokumentasi [Beranda - Papan Masalah - Jelajahi Komunitas - Profil - Pengaturan - Komunitas saya]:
 <img width="1600" height="900" alt="WhatsApp Image 2026-11-20 at 21 44 05 (1)" src="https://github.com/user-attachments/assets/e635bc5d-ce35-41b5-a72d-8e710fee5770" />
 <img width="1600" height="900" alt="WhatsApp Image 2026-11-20 at 21 44 06" src="https://github.com/user-attachments/assets/5e9115c8-8b3b-46d1-858f-cf17b5c94f90" />
